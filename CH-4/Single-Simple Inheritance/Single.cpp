@@ -31,6 +31,7 @@ public:
     // a
     // setABC();
     // getABC();
+
     void setPQR()
     {
         cout << "Enter p : ";
@@ -41,7 +42,7 @@ public:
     {
         getABC();
         cout << endl
-             << "P\t: " << this->p << endl;
+             << "p\t: " << this->p << endl;
         // cout << "A\t: " << a << endl;
     }
 

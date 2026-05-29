@@ -1,5 +1,5 @@
 #include <iostream>
-#include "single.cpp"
+#include "Single.cpp"
 using namespace std;
 
 int main()
@@ -13,5 +13,6 @@ int main()
 
     // int ans = p.sum();
 
-    cout << "Sum\t: " << p.sum() << endl;
+    cout << endl
+         << "Sum\t: " << p.sum() << endl;
 }

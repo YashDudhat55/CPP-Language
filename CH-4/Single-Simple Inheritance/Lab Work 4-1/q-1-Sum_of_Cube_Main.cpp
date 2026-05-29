@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Sum.cpp"
+#include "q-1-Sum_of_Cube.cpp"
 
 int main ()
 {
